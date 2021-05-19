@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hospitalmanagementsystem</string>
+    <string name="user_credentials" />
+    <string name="all_pending_appointment" />
+    <string name="doctor_patient" />
+    <string name="doctor_leaves" />
+    <string name="doctor_slot" />
+    <string name="staff" />
+    <string name="all_doctor_slots" />
+</resources>
